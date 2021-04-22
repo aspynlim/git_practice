@@ -1,1 +1,1 @@
-# This is a PREMIUM version
+# This is a FREE version
