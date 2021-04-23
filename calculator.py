@@ -16,3 +16,6 @@ def remainder(a, b):
 
 def say_hello(a, b):
     print("hello")
+    
+def premium():
+    print("goodbye")
