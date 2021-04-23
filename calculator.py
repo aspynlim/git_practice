@@ -10,3 +10,6 @@ def multiply(a, b):
 
 def divide_FREE(a, b):
     return a/b
+
+def remainder(a, b):
+    return a//b
