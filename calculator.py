@@ -14,11 +14,8 @@ def divide_FREE(a, b):
 def remainder(a, b):
     return a//b
 
-def get_abs(num):
-    if num >=0:
-        return num
-    else:
-        return -num
+def say_hello(a, b):
+    print("hello")
 
-def percentage(a, b):
-    return (a/b)*100
+def get_sum_ver1(n):
+    return (n(n+1))/2
