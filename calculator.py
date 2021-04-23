@@ -14,8 +14,8 @@ def divide_FREE(a, b):
 def remainder(a, b):
     return a//b
 
-def say_hello(a, b):
-    print("hello")
-    
-def premium():
-    print("goodbye")
+def get_abs(num):
+    if num >=0:
+        return num
+    else:
+        return -num
