@@ -10,6 +10,3 @@ def multiply(a, b):
 
 def divide_FREE(a, b):
     return a/b * 2
-
-def square(a):
-    return a*a
