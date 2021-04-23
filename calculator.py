@@ -13,3 +13,6 @@ def divide_FREE(a, b):
 
 def remainder(a, b):
     return a//b
+
+def say_hello(a, b):
+    print("hello")
